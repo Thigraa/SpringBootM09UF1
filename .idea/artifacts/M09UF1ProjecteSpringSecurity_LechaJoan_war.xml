@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="M09UF1ProjecteSpringSecurity_LechaJoan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>M09UF1ProjecteSpringSecurity_LechaJoan</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="projecte_spring-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="M09UF1ProjecteSpringSecurity_LechaJoan:war exploded" />
+    </root>
+  </artifact>
+</component>

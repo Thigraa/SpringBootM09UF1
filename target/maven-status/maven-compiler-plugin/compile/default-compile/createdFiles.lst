@@ -1,0 +1,8 @@
+cat\itb\m9\uf1\projecte_spring\controller\SongController.class
+cat\itb\m9\uf1\projecte_spring\model\song\Song.class
+cat\itb\m9\uf1\projecte_spring\model\user\MyUser.class
+cat\itb\m9\uf1\projecte_spring\security\SongWebSecurityConfig.class
+cat\itb\m9\uf1\projecte_spring\service\UserService.class
+cat\itb\m9\uf1\projecte_spring\ProjecteSpringApplication.class
+cat\itb\m9\uf1\projecte_spring\service\SongService.class
+cat\itb\m9\uf1\projecte_spring\service\MyUserDetailsService.class
